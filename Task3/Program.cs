@@ -1,4 +1,4 @@
-﻿ Console.WriteLine("ВВедите число ");
+﻿Console.WriteLine("Введите число ");
 int number = int.Parse(Console.ReadLine());
 int check = number % 2;
  
