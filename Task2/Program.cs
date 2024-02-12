@@ -16,4 +16,4 @@ if (max < ImputNumber2) {
 if (max < ImputNumber3) {
     max = ImputNumber3;
 }
-Console.WriteLine("Самое большое число" + max);
+Console.WriteLine("Самое большое число " + max);
